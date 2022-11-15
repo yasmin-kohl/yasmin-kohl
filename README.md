@@ -1,5 +1,4 @@
 ### Hi there 👋
-### My name is Yasmin
 welcome to my profile.
 
 <!--
